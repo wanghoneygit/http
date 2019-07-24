@@ -1,0 +1,17 @@
+{
+    "name": "wanghoneygit\/http",
+    "description": "this is a sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wuwangwang",
+            "email": "wuwangwang@dxy.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wanghoneygit\\Http\\": "src"
+        }
+    }
+}
